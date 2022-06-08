@@ -15,4 +15,4 @@ dolor sic amet
 
 ## Section 2
 More sample text here
-
+Another new line
